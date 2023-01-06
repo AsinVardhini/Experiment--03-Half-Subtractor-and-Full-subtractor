@@ -67,7 +67,7 @@ endmodule
 ```
 ## LOGICAL DIAGRAM
 
-Half Subtracor:
+Half Subtractor:
 ![](HA%20logicalsub.png)
 
 Full Subtractor:
@@ -75,7 +75,7 @@ Full Subtractor:
 
 ## TRUTH TABLE
 
-Half Subtracor:
+Half Subtractor:
 ![](Truthtable%20hs.png)
 
 Full Subtractor:
@@ -83,7 +83,7 @@ Full Subtractor:
 
 ##  RTL realization
 
-Half Subtracor:
+Half Subtractor:
 ![](expfour%20output.png)
 
 Full Subtractor:
@@ -91,7 +91,7 @@ Full Subtractor:
 
 ## TIMING DIAGRAM
 
-Half Subtracor:
+Half Subtractor:
 ![](Timingdia%20HS.png)
 
 Full Subtractor:
